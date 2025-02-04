@@ -1,0 +1,18 @@
+{
+    
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+    "startHere": true,
+    "respawnHere": true
+
+
+    ,"Vessel" : {
+            "coords" : {
+                "x": [4, 1, 0, 3],
+                "y": [0, 5, 2, 1, 4],
+                "z": [1, 2, 5, 0, 4]
+            },
+            "hasPhysics": true,
+            "alwaysPresent": false
+    }
+}
+

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Lava Twins",
+	"starSystem": "harperlr.blackrock",
+	"ReferenceFrame": {
+		"enabled": false
+	},
+
+    "Base" :{
+        "centerOfSolarSystem": true
+    },
+    
+	"Orbit" :
+	{
+		"semiMajorAxis" : 22000,
+		"primaryBody" : "blackrock"
+	},
+	"FocalPoint" :
+	{
+		"primary" : "bluestar",
+		"secondary" : "redstar"
+	}
+}
