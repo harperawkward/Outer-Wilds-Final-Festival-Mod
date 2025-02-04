@@ -27,12 +27,7 @@
     },
     "MapMarker": {
         "enabled": true
-    },
+    }
 
-    "PlayerSpawnPoint" :{
-        
-       "isDefault" : true
-
-    }    
-        
+   
 }
