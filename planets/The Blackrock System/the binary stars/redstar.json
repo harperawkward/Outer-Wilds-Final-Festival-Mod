@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name" : "RedStar",
+	"name" : "redstar",
     "starSystem": "harperlr.blackrock",
 	"Base" :
 	{
@@ -13,7 +13,9 @@
     {
         "showOrbitLine": false,
         "isStatic": false,
-        "primaryBody": "Binary Twins"
+        "primaryBody": "binary twins",
+        "semiMajorAxis": 2000
+
     },
     "Star": {
         "size" : 200,
