@@ -1,18 +1,22 @@
 {
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "My Cool Planet",
+    "starSystem": "xen.NewHorizonsExamples",
+    "Base": {
+        "surfaceGravity": 12,
+        "surfaceSize": 100
+    },
     "HeightMap": {
-        "minHeight": 5,
+        "minHeight": 80,
         "maxHeight": 100,
-        "heightMap": "planets/assets/my_cool_heightmap.png",
+        "heightMap": "planets/assets/my_cool_heightmap.jpg",
         "textureMap": "planets/assets/my_cool_texturemap.png"
     },
-    "Orbit" : {
-        
-            "semiMajorAxis" : 0,
-            "primaryBody" : "Binary Twins",
-            "isMoon" : false
+    "Orbit": {
+        "semiMajorAxis": 0,
+        "primaryBody": "Binary Twins",
+        "isMoon": false
     },
-
     "Atmosphere": {
         "size": 150,
         "fogTint": {
@@ -27,7 +31,19 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Spawn": {
+        "playerSpawnPoints": [
+            {
+                "position": {
+                    "x": 0,
+                    "y": 100,
+                    "z": 0
+                },
+                "startWithSuit": true,
+                "isDefault": true,
+                "alignRadial": true
+            }
+        ]
     }
-
-   
 }
