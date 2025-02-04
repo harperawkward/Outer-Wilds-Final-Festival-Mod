@@ -1,0 +1,38 @@
+{
+    "name": "My Cool Planet",
+    "HeightMap": {
+        "minHeight": 5,
+        "maxHeight": 100,
+        "heightMap": "planets/assets/my_cool_heightmap.png",
+        "textureMap": "planets/assets/my_cool_texturemap.png"
+    },
+    "Orbit" : {
+        
+            "semiMajorAxis" : 0,
+            "primaryBody" : "Binary Twins",
+            "isMoon" : false
+    },
+
+    "Atmosphere": {
+        "size": 150,
+        "fogTint": {
+            "r": 200,
+            "g": 255,
+            "b": 255,
+            "a": 255
+        },
+        "fogSize": 150,
+        "fogDensity": 0.2,
+        "hasRain": true
+    },
+    "MapMarker": {
+        "enabled": true
+    },
+
+    "PlayerSpawnPoint" :{
+        
+       "isDefault" : true
+
+    }    
+        
+}
