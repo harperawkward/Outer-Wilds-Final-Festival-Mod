@@ -4,4 +4,4 @@ a major work in progress lmao, don't get your hopes up this thing will probably 
 
 if you'd like to read further the mod has a thread in the outer wilds discord server in which i am active in.
 
-![alt text](harperawkward/Outer-Wilds-Final-Festival-Mod/README-images/image1.png)
+![alt text](harperawkward/Outer-Wilds-Final-Festival-Mod/image1.png)
