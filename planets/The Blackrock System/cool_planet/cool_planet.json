@@ -13,7 +13,7 @@
         "textureMap": "planets/assets/my_cool_texturemap.png"
     },
     "Orbit": {
-        "semiMajorAxis": 10000,
+        "semiMajorAxis": 1000,
         "primaryBody": "Binary Twins",
         "isMoon": false
     },
