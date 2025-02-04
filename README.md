@@ -5,5 +5,5 @@ a major work in progress lmao, don't get your hopes up this thing will probably 
 if you'd like to read further the mod has a thread in the outer wilds modding discord server in which i am active in. feel free to say hi!
 
 -harper
+![the blackstar systems dual suns](https://github.com/user-attachments/assets/3aa47d94-c7f3-4357-a949-1c7f910f169b)
 
-![image test](https://github.com/user-attachments/assets/44b90edd-e2a1-4ad1-8aa4-a923a2654c38)
