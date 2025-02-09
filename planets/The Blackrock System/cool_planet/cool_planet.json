@@ -61,7 +61,7 @@
                 "alignRadial": true,
 
                 "xmlFile": "planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
-                "type": "cairnTH"
+                "type": "wall"
 
             }   
         ]
