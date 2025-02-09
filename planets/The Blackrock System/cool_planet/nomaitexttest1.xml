@@ -1,0 +1,9 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+    <TextBlock>
+        <ID>1</ID>
+        <Text>welcome to outer wilds final festival mod <![CDATA[<color=red>[error!]</color>]]> and explore the nomai of this system.</Text>
+    </TextBlock>
+
+    <TextBlock>
+        <ID>2</ID>
+        <Text>Thats the fucking theme to angry birds.</Text>

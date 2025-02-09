@@ -43,7 +43,33 @@
                 "startWithSuit": true,
                 "isDefault": true,
                 "alignRadial": true
+       
             }
         ]
+    },
+    "Props": {
+
+        "translatorText" :[
+            {
+                "position" : {
+                    "x" : 0,
+                    "y" : -100,
+                    "z" : 0
+
+
+                },
+
+                "alignRadial": true,
+
+                "xmlFile": "harperawkward/Outer-Wilds-Final-Festival-Mod/planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
+                "type": "cairnTH"
+
+            }   
+        ]
+
     }
-}
+        
+   
+   
+    }
+
