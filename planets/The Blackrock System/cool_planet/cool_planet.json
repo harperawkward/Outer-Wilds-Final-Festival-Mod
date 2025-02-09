@@ -9,12 +9,12 @@
     "HeightMap": {
         "minHeight": 80,
         "maxHeight": 100,
-        "heightMap": "harperawkward/Outer-Wilds-Final-Festival-Mod/planets/assets/my_cool_heightmap.jpg",
-        "textureMap": "harperawkward/Outer-Wilds-Final-Festival-Mod/planets/assets/color-maps.jpg"
+        "heightMap": "planets/assets/my_cool_heightmap.jpg",
+        "textureMap": "/planets/assets/color-maps.jpg"
     },
     "Orbit": {
         "semiMajorAxis": 1000,
-        "primaryBody": "Binary Twins",
+        "primaryBody": "binary twins",
         "isMoon": false
     },
     "Atmosphere": {
@@ -61,7 +61,7 @@
 
                 "alignRadial": true,
 
-                "xmlFile": "harperawkward/Outer-Wilds-Final-Festival-Mod/planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
+                "xmlFile": "/planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
                 "type": "cairnTH"
 
             }   
