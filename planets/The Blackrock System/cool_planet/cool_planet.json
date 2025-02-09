@@ -9,8 +9,7 @@
     "HeightMap": {
         "minHeight": 80,
         "maxHeight": 100,
-        "heightMap": "planets/assets/my_cool_heightmap.jpg",
-        "textureMap": "/planets/assets/color-maps.jpg"
+        "textureMap": "planets/assets/color-maps.jpg"
     },
     "Orbit": {
         "semiMajorAxis": 5000,
@@ -61,7 +60,7 @@
 
                 "alignRadial": true,
 
-                "xmlFile": "/planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
+                "xmlFile": "planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
                 "type": "cairnTH"
 
             }   
