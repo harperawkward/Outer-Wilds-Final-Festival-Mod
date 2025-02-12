@@ -27,7 +27,7 @@
         },
         "fogSize": 150,
         "fogDensity": 0.2,
-        "hasRain": true
+        "hasRain": false
     },
     "MapMarker": {
         "enabled": true
@@ -61,11 +61,26 @@
 
                 "alignRadial": true,
 
-                "xmlFile": "planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
+                "xmlFile": "planets/The Blackrock System/cool_planet/whiteboard1.xml",
                 "type": "whiteboard"
 
             }   
-        ]
+        ],
+
+        "translatorText" :[
+            {
+                "position": {
+                    "x" : 0,
+                    "y" : -90,
+                    "z" : 0
+                },
+                "alignradical" : true,
+
+                "xmlFile" : "planets/The Blackrock System/cool_planet/nomaitexttest1.xml",
+                "type": "scroll"
+            }
+
+        ]   
 
     }
         
