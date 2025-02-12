@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "NewHorizonsConfig.dll",
 	"author": "harperlr",
-	"name": "Outer Wilds: Final Festival",
+	"name": "harperlr.FinalFestival",
 	"uniqueName": "harperlr.FinalFestival",
 	"version": "0.0.0",
 	"owmlVersion": "2.13.0",
