@@ -2,8 +2,46 @@
     "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "name": "RockyYellow",
     "starSystem": "harperlr.blackrock",
+    "canShowOnTitle": true,
     "Base": {
-        "surfaceGravity": 12,
-        "surfaceSize": 550  
+        "surfaceGravity": 15,
+        "surfaceSize": 550
+    },
+    "HeightMap": {
+        "minHeight": 97,
+        "maxHeight": 100,
+        "textureMap": "planets/assets/color-maps.png",
+        "heightMap": "planets/assets/heightmap.png"
+    },
+    
+
+
+
+    "Orbit": {
+        "semiMajorAxis": 2500,
+        "primaryBody": "binary twins",
+        "isMoon": false
+
+    },
+
+    "Atmosphere": {
+        "atmosphereTint": {
+            "r" : 255,
+            "g" : 231,
+            "b": 104
+        },
+        "atmosphereSunIntensity": 2,
+        "clouds": {
+            "cloudsPrefab": "giantsDeep",
+            "tint": {
+                "r": 255,
+                "g": 194,
+                "b": 27
+            }
+        },
+
+        "hasOxygen": false,
+        "hasShockLayer": true
+
     }
 }

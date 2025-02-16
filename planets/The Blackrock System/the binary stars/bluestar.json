@@ -14,7 +14,7 @@
         "showOrbitLine": false,
         "isStatic": false,
         "primaryBody": "binary twins",
-        "semiMajorAxis": 200
+        "semiMajorAxis": 300
     },
     "Star": {
         "size" : 1000,
