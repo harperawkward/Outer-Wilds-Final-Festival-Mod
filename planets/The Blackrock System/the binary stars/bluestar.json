@@ -17,7 +17,7 @@
         "semiMajorAxis": 300
     },
     "Star": {
-        "size" : 1000,
+        "size" : 250,
      "tint" :
          { "r": 100,
            "g": 243,

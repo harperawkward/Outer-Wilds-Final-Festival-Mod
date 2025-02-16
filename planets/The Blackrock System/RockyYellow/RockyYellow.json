@@ -25,6 +25,8 @@
     },
 
     "Atmosphere": {
+        "size": 620,
+        "useAtmosphereShader": true,
         "atmosphereTint": {
             "r" : 255,
             "g" : 231,
@@ -37,7 +39,11 @@
                 "r": 255,
                 "g": 194,
                 "b": 27
-            }
+            },
+
+            "innerCloudRadius": 600,
+            "outerCloudRadius": 700
+
         },
 
         "hasOxygen": false,
