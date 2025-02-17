@@ -4,8 +4,8 @@
     "starSystem": "harperlr.blackrock",
     "canShowOnTitle": true,
     "Base": {
-        "surfaceGravity": 15,
-        "surfaceSize": 550
+        "surfaceGravity": 27,
+        "surfaceSize": 1000
     },
     "HeightMap": {
         "minHeight": 97,
@@ -32,7 +32,7 @@
             "g" : 231,
             "b": 104
         },
-        "atmosphereSunIntensity": 2,
+        "atmosphereSunIntensity": 25,
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "tint": {
