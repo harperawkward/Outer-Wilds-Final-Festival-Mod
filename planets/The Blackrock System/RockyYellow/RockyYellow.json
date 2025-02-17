@@ -5,11 +5,11 @@
     "canShowOnTitle": true,
     "Base": {
         "surfaceGravity": 27,
-        "surfaceSize": 1000
+        "surfaceSize": 550
     },
     "HeightMap": {
-        "minHeight": 97,
-        "maxHeight": 100,
+        "minHeight": 545,
+        "maxHeight": 573,
         "textureMap": "planets/assets/color-maps.png",
         "heightMap": "planets/assets/heightmap.png"
     },
