@@ -6,12 +6,8 @@
         "surfaceGravity": 12,
         "surfaceSize": 100
     },
-    "HeightMap": {
-        "minHeight": 80,
-        "maxHeight": 100,
-        "textureMap": "planets/assets/color-maps.png",
-        "heightMap": "planets/assets/heightmap.png"
-    },
+
+    
     "Orbit": {
         "semiMajorAxis": 5000,
         "primaryBody": "binary twins",

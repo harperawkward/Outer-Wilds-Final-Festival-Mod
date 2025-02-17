@@ -42,7 +42,8 @@
             },
 
             "innerCloudRadius": 600,
-            "outerCloudRadius": 700
+            "outerCloudRadius": 700,
+            "texturePath" : "planets/assets/rockyyellowcloudtexture.png"
 
         },
 
